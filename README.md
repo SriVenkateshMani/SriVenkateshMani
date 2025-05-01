@@ -12,8 +12,9 @@ I’m a backend focused developer with strong interests in machine learning and 
  I’ve gained hands-on experience through:
 - 🧬 Built a full stack scientific workflow platform at **Biocollate** using Flask, Go, React and PostgreSQL
 - 🧑‍🏫 Helped 500+ students as a **Graduate Teaching Assistant** for CSCI 1300 at CU Boulder
-- 🔧 Engineered efficient, secure REST APIs at **Techfidelite**, improving backend performance and implementing JWT-based authentication  
-- 🌐 Developed bot detection logic and integrated reCAPTCHA at **ITJobxs.com**, enhancing system reliability and reducing spam traffic
+- 🛠️ Engineered secure REST APIs using JWT at **Techfidelite**, optimizing backend performance and reliability  
+- 🧠 Built bot detection and reCAPTCHA systems at **ITJobxs.com**, improving platform security and reducing spam
+
 
 🛠️ Languages & Tools: Python · Java · Javascript · C++ · Flask · PostgreSQL · React · Docker · GCP  
 📚 Interests: Backend Systems · NLP · Machine Learning · Deep Learning  
