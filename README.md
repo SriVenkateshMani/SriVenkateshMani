@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Sri Venkatesha Mani
+# Hi there 👋 
+I'm Sri Venkatesha Mani
 
 🎓 MS in Computer Science @ University of Colorado Boulder  
 💻 Software Engineer | Backend Dev | NLP + ML Enthusiast  
