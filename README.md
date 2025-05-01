@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Sri Venkatesha Mani
 
-<!--
-**SriVenkateshMani/SriVenkateshMani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Computer Science @ University of Colorado Boulder  
+💻 Software Engineer | Backend Dev | NLP + ML Enthusiast  
+🌐 Currently building scalable tools at the intersection of AI, data, and the web
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a curious and driven developer passionate about solving real-world problems through clean architecture and intelligent systems. I’ve worked across backend services, frontend apps, and AI/NLP pipelines — always eager to learn, iterate, and improve.
+
+🛠️ Languages & Tools: Python · Java · C++ · Flask · PostgreSQL · React · Docker · GCP  
+📚 Interests: Backend Systems · NLP · Machine Learning · Deep Learning 
+📈 Currently learning: Advanced LLM fine-tuning · System Design
+
+---
+
+## 🔗 Connect with Me
+
+- 📬 Email: sri.narayanan@colorado.edu  
+- 💼 LinkedIn: [linkedin.com/in/sri-venkatesha-mani-n-093686261](https://www.linkedin.com/in/sri-venkatesha-mani-n-093686261/)    
+- 🗃️ GitHub: [github.com/SriVenkateshMani](https://github.com/SriVenkateshMani)  
+
+---
