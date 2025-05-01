@@ -1,18 +1,22 @@
-# Hi there 👋 
-I'm Sri Venkatesha Mani
+# Hi there I'm Sri Venkatesha Mani
 
 🎓 MS in Computer Science @ University of Colorado Boulder  
-💻 Software Engineer | Backend Dev | NLP + ML Enthusiast  
-🌐 Currently building scalable tools at the intersection of AI, data, and the web
+💻 Aspiring Software Engineer | Backend Dev | ML Enthusiast  
 
 ---
 
 ## 🚀 About Me
 
-I'm a curious and driven developer passionate about solving real-world problems through clean architecture and intelligent systems. I’ve worked across backend services, frontend apps, and AI/NLP pipelines — always eager to learn, iterate, and improve.
+I’m a backend focused developer with strong interests in machine learning and deep learning. I've completed coursework in ML, NLP and Neural Networks And Deep Leanring, and built hands-on projects in both backend development and AI. I enjoy building clean, scalable systems and exploring real-world applications of intelligent models.
+
+🧪 I’ve gained hands-on experience through:
+- 🧬 Building a full-stack scientific workflow platform at **Biocollate** using Flask, Go, and PostgreSQL
+- 🧑‍🏫 Helping 500+ students as a **Graduate Teaching Assistant** for CSCI 1300 at CU Boulder
+- 🔧 Optimizing API performance and security during my internship at **Techfidelite**
+- 🌐 Enhancing UX and platform security at **ITJobxs.com** with bot detection and reCAPTCHA
 
 🛠️ Languages & Tools: Python · Java · C++ · Flask · PostgreSQL · React · Docker · GCP  
-📚 Interests: Backend Systems · NLP · Machine Learning · Deep Learning 
+📚 Interests: Backend Systems · NLP · Machine Learning · Deep Learning  
 📈 Currently learning: Advanced LLM fine-tuning · System Design
 
 ---
@@ -20,7 +24,7 @@ I'm a curious and driven developer passionate about solving real-world problems 
 ## 🔗 Connect with Me
 
 - 📬 Email: sri.narayanan@colorado.edu  
-- 💼 LinkedIn: [linkedin.com/in/sri-venkatesha-mani-n-093686261](https://www.linkedin.com/in/sri-venkatesha-mani-n-093686261/)    
+- 💼 LinkedIn: [linkedin.com/in/sri-venkatesha-mani-n-093686261](https://www.linkedin.com/in/sri-venkatesha-mani-n-093686261/)  
 - 🗃️ GitHub: [github.com/SriVenkateshMani](https://github.com/SriVenkateshMani)  
 
 ---
