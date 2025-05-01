@@ -15,9 +15,9 @@ I’m a backend focused developer with strong interests in machine learning and 
 - 🔧 Engineered efficient, secure REST APIs at **Techfidelite**, improving backend performance and implementing JWT-based authentication  
 - 🌐 Developed bot detection logic and integrated reCAPTCHA at **ITJobxs.com**, enhancing system reliability and reducing spam traffic
 
-🛠️ Languages & Tools: Python · Java · C++ · Flask · PostgreSQL · React · Docker · GCP  
+🛠️ Languages & Tools: Python · Java · Javascript · C++ · Flask · PostgreSQL · React · Docker · GCP  
 📚 Interests: Backend Systems · NLP · Machine Learning · Deep Learning  
-📈 Currently learning: Advanced LLM fine-tuning · System Design
+📈 Currently learning: Advanced LLM fine-tuning 
 
 ---
 
