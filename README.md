@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I’m a backend focused developer with strong interests in machine learning and deep learning. I've completed coursework in ML, NLP and Neural Networks And Deep Leanring, and built hands-on projects in both backend development and AI. I enjoy building clean, scalable systems and exploring real-world applications of intelligent models.
+I’m a backend focused developer with strong interests in machine learning and deep learning. I've completed coursework in ML, NLP, Neural Networks And Deep Learning, and built hands-on projects in both backend development and ML. I enjoy building clean, scalable systems and exploring real-world applications of intelligent models.
 
  I’ve gained hands-on experience through:
 - 🧬 Built a full stack scientific workflow platform at **Biocollate** using Flask, Go, React and PostgreSQL
