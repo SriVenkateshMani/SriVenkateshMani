@@ -16,7 +16,7 @@ I’m a fullstack developer and also have strong foundations in machine learning
 - 🛠️ Engineered secure REST APIs using JWT at **Techfidelite**, optimizing backend performance and reliability 
 
 
-🛠️ Languages & Tools: Python · Ruby · Java · Javascript · Typescript · C++ · Flask · Rails · Node.js ·Express.js · React.js · Angular.js · PostgreSQL · React · Docker · 
+🛠️ Languages & Tools: Python · Ruby · Java · Javascript · Typescript · C++ · Flask · Rails · Node.js ·Express.js · React.js · Angular.js · PostgreSQL · React · Docker
 📚 Interests: Backend Systems · NLP · Machine Learning · Deep Learning · LLMs
 📈 Currently learning: Advanced LLM fine-tuning 
 
