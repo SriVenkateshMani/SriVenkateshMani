@@ -17,6 +17,7 @@ I’m a fullstack developer and also have strong foundations in machine learning
 
 
 🛠️ Languages & Frameworks: Python · Ruby · Java · Javascript · Typescript · C++ · Flask · Rails · Node.js ·Express.js · React.js · Angular.js ·
+
 🖥️ Tools & Cloud: Flask · Rails · Node.js · Express.js · React.js · Angular.js · Docker · Kubernetes · AWS · GCP · Azure ·
 
 🛢️ Database: MySql · Postgresql · MongoDb ·
