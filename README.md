@@ -17,6 +17,7 @@ I’m a fullstack developer and also have strong foundations in machine learning
 
 
 🛠️ Languages & Tools: Python · Ruby · Java · Javascript · Typescript · C++ · Flask · Rails · Node.js ·Express.js · React.js · Angular.js · PostgreSQL · React · Docker
+
 📚 Interests: Backend Systems · NLP · Machine Learning · Deep Learning · LLMs
 📈 Currently learning: Advanced LLM fine-tuning 
 
