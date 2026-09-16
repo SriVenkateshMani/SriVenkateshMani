@@ -12,27 +12,31 @@ I’m a Software Engineer with 2 years of production experience across Full Stac
 My hands-on professional experience includes:
 
 - 🏁 **Rattlesnake Ramble ORG** — Helped drag a long-running race platform out of its legacy era: migrated old workflows/data, fixed payment-state headaches, worked on AWS deployment, and built an LLM-powered admin assistant with tool calling for 7+ admin workflows.
+  
 - 🧬 **Biocollate** — Built an AI-enabled scientific workflow platform end to end, from figuring out what researchers actually needed to building the full stack with FastAPI, React, PostgreSQL, Docker, Kubernetes, and AWS.
+  
 - 🧑‍🏫 **CU Boulder** — Helped 500+ students survive CSCI 1300 as a Teaching Assistant. Lots of debugging, lots of “why is this segfaulting?”, lots of learning.
+  
 - 🧠 **ITJobxs.com** — Built authentication, bot detection, and reCAPTCHA protections to keep fake signups and spam from taking over the place.
+  
 - 🛠️ **Techfidelite** — Built secure REST APIs with JWT, rate limiting, and access controls, while making the backend a little less likely to ruin someone’s day.
 
 
-🛠️ Languages & Frameworks: · Python ·  · Java · Javascript · Typescript · C++ · Flask · Rails · Node.js · Express.js · React.js ·
+🛠️ Languages & Frameworks: · Python · Javascript · Typescript · Ruby · Java · FastAPI · Flask · Rails · Node.js · Express.js · React.js 
 
-🖥️ Tools & Cloud: · Docker · Kubernetes · AWS · GCP · Azure · Git · GitHub · CI/CD · Hadoop · Kafka · Grafana · Prometheus ·
+🖥️ Tools & Cloud: · Docker · Kubernetes · AWS(EC2, Lambda, ECS/Fargate, S3) · Git · GitHub · CI/CD · Airflow · Kafka · Grafana · Prometheus 
 
-🛢️ Database: · MySql · Postgresql · MongoDb · Redis ·
+🛢️ Database: · MySql · Postgresql · MongoDb · Redis 
 
-📚 Interests: · Backend Systems · NLP · Machine Learning · Deep Learning · LLMs ·
+📚 Interests: · AI enabled Systems · LLMs · Full Stack Applications
 
-📈 Currently learning: Advanced LLM fine-tuning 
+📈 Currently learning: Digging deep into what LLMs had gotten in store
 
 ---
 
 ## 🔗 Connect with Me
 
-- 📬 Email: sri.narayanan@colorado.edu  
+- 📬 Email: srivenkateshmani@gmail.com 
 - 💼 LinkedIn: [linkedin.com/in/sri-venkatesha-mani-n-093686261](https://www.linkedin.com/in/sri-venkatesha-mani-n-093686261/)  
 - 🗃️ GitHub: [github.com/SriVenkateshMani](https://github.com/SriVenkateshMani)  
 
