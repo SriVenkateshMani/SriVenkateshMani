@@ -1,23 +1,23 @@
 # Hi there I'm Sri Venkatesha Mani
 
 🎓 MS Graduate in Computer Science @ University of Colorado Boulder  
-💻 Software Engineer | Full Stack Dev | ML Engineer  
+💻 Software Engineer | AI Engineer | Full Stack Dev |
 
 ---
 
 ## 🚀 About Me
 
-I’m a fullstack developer and also have strong foundations in machine learning and deep learning. I've completed CSCI 5622: Machine Learning, CSCI 5832: Natural Language Processing, CSCI 5922: Neural Network and Deep Learning and built hands on projects in both Machine Learning and Full Stack Development. I enjoy building clean, scalable systems and exploring real world applications of intelligent models.
+I’m a Software Engineer with 2 years of production experience across Full Stack Development, Cloud Native architectures and AI/ML applications. Proficient in Python, JavaScript, TypeScript, and Java with experience building production applications using FastAPI, Flask, Next.js, React.js, Node.js, and Express.js. Hands-on experience with Docker, Kubernetes, GCP, and AWS including EC2, Lambda, ECS, Fargate, S3, and SQS. Specializing in LLMs, RAG, AI agents, LangChain/LangGraph, MCP, and Vector Database.
 
  My hands on professional experiences:
-- 🏁 Led full-stack improvements in a Rails platform, adding payment validation and preventing unpaid signups for 100+ users at **Rattlesnake Ramble Charity**
-- 🧬 Built a full stack scientific workflow platform at **Biocollate** using Flask, Go, React, K8S, Docker and PostgreSQL
-- 🧑‍🏫 Helped 500+ students as a **Teaching Assistant** for CSCI 1300 at CU Boulder 
-- 🧠 Built bot detection and reCAPTCHA systems at **ITJobxs.com**, improving platform security and reducing spam
-- 🛠️ Engineered secure REST APIs using JWT at **Techfidelite**, optimizing backend performance and reliability 
+Rattlesnake Ramble ORG - Helped drag a long-running race platform out of its legacy era: migrated old workflows/data, fixed payment-state headaches, worked on AWS deployment, and built an LLM-powered admin assistant with tool calling for 7+ admin workflows.
+Biocollate - Built an AI-enabled scientific workflow platform end to end, from figuring out what researchers actually needed to building the full stack with FastAPI, React, PostgreSQL, Docker, Kubernetes, and AWS.
+CU Boulder - Helped 500+ students survive CSCI 1300 as a Teaching Assistant. Lots of debugging, lots of “why is this segfaulting?”, lots of learning.
+ITJobxs.com - Built authentication, bot detection, and reCAPTCHA protections to keep fake signups and spam from taking over the place.
+Techfidelite - Built secure REST APIs with JWT, rate limiting, and access controls, while making the backend a little less likely to ruin someone’s day.
 
 
-🛠️ Languages & Frameworks: · Python · Ruby · Java · Javascript · Typescript · C++ · Flask · Rails · Node.js · Express.js · React.js ·
+🛠️ Languages & Frameworks: · Python ·  · Java · Javascript · Typescript · C++ · Flask · Rails · Node.js · Express.js · React.js ·
 
 🖥️ Tools & Cloud: · Docker · Kubernetes · AWS · GCP · Azure · Git · GitHub · CI/CD · Hadoop · Kafka · Grafana · Prometheus ·
 
